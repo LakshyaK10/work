@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
