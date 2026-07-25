@@ -1,27 +1,18 @@
 class Solution {
     public int maxProduct(int n) {
-        int m=size(n);
-        if(m==1){
-            return m;
-        }
-        int[] ans=new int[m];
-
-        int idx=0;
+        
+        int max1=0;
+        int max2=0;
         while(n>0){
-            ans[idx]=n%10;
+            int digit=n%10;
+            if(digit>max1){
+                max2=max1;
+                max1=digit;
+            }else if(digit>max2){
+                max2=digit;
+            }
             n=n/10;
-            idx++;
         }
-        Arrays.sort(ans);
-        return ans[m-1]*ans[m-2];
-        // return m;
-    }
-    public int size(int n){
-        int count=0;
-        while(n>0){
-            n=n/10;
-            count++;
-        }
-        return count;
+        return max1*max2;
     }
 }
