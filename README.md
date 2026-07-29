@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
