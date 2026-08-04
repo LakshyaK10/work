@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [1260-shift-2d-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Prefix Sum
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
