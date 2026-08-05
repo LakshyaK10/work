@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [3310-remove-methods-from-project](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [3310-remove-methods-from-project](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Dynamic Programming
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
