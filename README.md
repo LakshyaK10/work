@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [3310-remove-methods-from-project](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
