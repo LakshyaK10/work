@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [1162-as-far-from-land-as-possible](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
