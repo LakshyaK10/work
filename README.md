@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0443-string-compression](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -281,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
