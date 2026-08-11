@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
@@ -293,8 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
