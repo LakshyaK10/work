@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
