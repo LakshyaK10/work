@@ -11,10 +11,7 @@ class Solution {
             if(e==1){
                 return -1;
             }
-            count=count+e/3;
-            if(e%3!=0){
-                count++;
-            }
+            count+=(e+2)/3;
         }
         return count;
     }
