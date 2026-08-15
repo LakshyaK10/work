@@ -341,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
