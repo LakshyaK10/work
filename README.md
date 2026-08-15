@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -347,4 +350,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
