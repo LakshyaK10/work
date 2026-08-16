@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0078-subsets) |
+| [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
