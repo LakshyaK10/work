@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3310-remove-methods-from-project](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Prefix Sum
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1162-as-far-from-land-as-possible](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1584-min-cost-to-connect-all-points](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Shortest Path
 |  |
@@ -368,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
