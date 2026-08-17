@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Math
 |  |
 | ------- |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Breadth-First Search
 |  |
 | ------- |
