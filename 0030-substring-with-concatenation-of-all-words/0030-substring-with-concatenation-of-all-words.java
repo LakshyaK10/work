@@ -105,7 +105,6 @@ class Solution {
             required.put(word, required.getOrDefault(word, 0) + 1);
         }
 
-        // Try every possible starting offset
         for (int offset = 0; offset < wordLen; offset++) {
 
             int left = offset;
@@ -120,7 +119,6 @@ class Solution {
                 String word = s.substring(right, right + wordLen);
                 right += wordLen;
 
-                // Word is not present in words
                 if (!required.containsKey(word)) {
                     current.clear();
                     count = 0;
@@ -131,7 +129,6 @@ class Solution {
                 current.put(word, current.getOrDefault(word, 0) + 1);
                 count++;
 
-                // Too many occurrences of this word
                 while (current.get(word) > required.get(word)) {
 
                     String leftWord = s.substring(left, left + wordLen);
@@ -145,11 +142,9 @@ class Solution {
                     count--;
                 }
 
-                // Found exactly wordCount words
                 if (count == wordCount) {
                     ans.add(left);
 
-                    // Move window forward
                     String leftWord = s.substring(left, left + wordLen);
 
                     current.put(
