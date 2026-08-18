@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1162-as-far-from-land-as-possible](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Breadth-First Search
 |  |
