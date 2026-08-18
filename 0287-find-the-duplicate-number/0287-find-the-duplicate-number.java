@@ -1,5 +1,6 @@
 class Solution {
     public int findDuplicate(int[] nums) {
+        //can do using hashmap or count or sorting... BUT THIS IS THE MOST OPTIMAL SOL AS IT TAKES TC AS O(N) AND SC AS O(1)
         int slow=nums[0];
         int fast=nums[0];
 
