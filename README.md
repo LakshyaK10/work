@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1652-defuse-the-bomb](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1652-defuse-the-bomb](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
