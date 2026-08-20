@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -437,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
