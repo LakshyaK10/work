@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Prime Factorization
 |  |
