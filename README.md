@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0078-subsets) |
 | [0473-matchsticks-to-square](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Stack
 |  |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -482,4 +487,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
