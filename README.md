@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bipartite Graph
 |  |
