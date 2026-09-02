@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0091-decode-ways](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0392-is-subsequence) |
