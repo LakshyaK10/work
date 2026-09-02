@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0390-elimination-game) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0168-excel-sheet-column-title](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0443-string-compression) |
