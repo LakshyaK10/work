@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Number Theory
 |  |
