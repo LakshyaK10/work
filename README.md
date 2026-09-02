@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1037-valid-boomerang](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1162-as-far-from-land-as-possible](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1492-the-kth-factor-of-n](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1927-sum-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
