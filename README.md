@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1492-the-kth-factor-of-n](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1037-valid-boomerang) |
 ## Tree
 |  |
