@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1492-the-kth-factor-of-n](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1922-count-good-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
