@@ -1,4 +1,10 @@
 class Solution {
+
+    public void swap(int i, int j, int[] nums){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
+    }
     public int firstMissingPositive(int[] nums) {
         int n=nums.length;
 
@@ -15,10 +21,6 @@ class Solution {
         return n+1;
 
     }
-    public void swap(int i, int j, int[] nums){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
+    
 
 }
