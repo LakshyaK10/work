@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
@@ -483,11 +484,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
