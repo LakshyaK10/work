@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0735-asteroid-collision](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
