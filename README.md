@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3355-zero-array-transformation-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3355-zero-array-transformation-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3355-zero-array-transformation-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3355-zero-array-transformation-i) |
 | [3903-smallest-stable-index-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
