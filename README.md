@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
