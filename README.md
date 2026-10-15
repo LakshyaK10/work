@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -621,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
