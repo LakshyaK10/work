@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/LakshyaK10/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2248-intersection-of-multiple-arrays](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshyaK10/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/LakshyaK10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Breadth-First Search
 |  |
