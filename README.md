@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/LakshyaK10/leetcode-solutions/tree/master/3941-password-strength) |
 ## Heap (Priority Queue)
 |  |
