@@ -26,6 +26,10 @@ class Solution {
         }
 
         grid[i][j]=1;
-        return close(grid,i+1,j) & close(grid,i-1,j) & close(grid,i,j+1) & close(grid,i,j-1);
+        boolean down=close(grid,i+1,j);
+        boolean up=close(grid,i-1,j);
+        boolean right=close(grid,i,j+1);
+        boolean left=close(grid,i,j-1);
+        return  down && up && left && right;
     } 
 }
